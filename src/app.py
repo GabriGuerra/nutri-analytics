@@ -164,10 +164,8 @@ with col_txt:
             Analytics Engineer | Data & Analytics<br>
             <span style="color:#64748B;">Data Analytics, BI & Applied Intelligence</span><br>
             <span style="color:#2563EB;">
-                <a href="https://www.linkedin.com/in/gabgsp/" target="_blank">LinkedIn</a> ·
-                <a href="https://github.com/GabriGuerra" target="_blank">GitHub</a> ·
-                <a href="mailto:gb.guerra@icloud.com">Email</a>
-            </span>
+                
+            
         </div>
         """,
         unsafe_allow_html=True
