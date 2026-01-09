@@ -10,7 +10,7 @@ Aplicação desenvolvida em Streamlit para suporte à análise e visualização 
 
 ## Funcionalidades Principais
 
-* Protocolos Cronobiológicos: Organização de estratégias do jejum ao período noturno. * Explorador Avançado de Dados: Filtros, agrupamentos e ordenações dinâmicas via Ag-Grid. * Visualizações Analíticas: Análise de distribuição, suplementação e hierarquias nutricionais.
+* Protocolos Cronobiológicos: Organização de estratégias do jejum ao período noturno. **Explorador Avançado de Dados**: Filtros, agrupamentos e ordenações dinâmicas via Ag-Grid. Visualizações Analíticas: Análise de distribuição, suplementação e hierarquias nutricionais.
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ Aplicação desenvolvida em Streamlit para suporte à análise e visualização 
 
 ## Estrutura do Projeto
 
-```text NutriAnalytics/ ├── .devcontainer/ │ └── devcontainer.json ├── .streamlit/ │ └── config.toml ├── .venv/ ├── assets/ │ └── Gabriel.jpeg ├── data/ │ └── database_nutri_otimizada.csv ├── src/ │ ├── app.py │ └── filters.py ├── README.md └── requirements.txt ```
+```text NutriAnalytics/ ├── .devcontainer/ │ └── devcontainer.json ├── .streamlit/ │ └── config.toml ├── .venv/ ├── assets/ │ └── Gabriel.jpeg ├── data/ │ └── nutri_data.csv ├── src/ │ ├── app.py │ └── filters.py ├── README.md └── requirements.txt ```
 
 ---
 
@@ -37,7 +37,7 @@ Aplicação desenvolvida em Streamlit para suporte à análise e visualização 
 **Autor** **Gabriel Guerra** Analytics Engineer | Power BI & Data Analytics
 
 > "Dados não são aleatórios — devem ser estruturados, contextualizados e governados."
-English (README.md)
+
 
 # NutriAnalytics — Neuro-Metabolic Optimization Platform Interactive platform for data analysis in nutrition, chronobiology, and cognitive optimization.
 
@@ -59,7 +59,7 @@ Streamlit-based application designed to support the analysis and visualization o
 
 ## Project Structure
 
-```text NutriAnalytics/ ├── .devcontainer/ │ └── devcontainer.json ├── .streamlit/ │ └── config.toml ├── .venv/ ├── assets/ │ └── Gabriel.jpeg ├── data/ │ └── database_nutri_otimizada.csv ├── src/ │ ├── app.py │ └── filters.py ├── README.md └── requirements.txt ```
+```text NutriAnalytics/ ├── .devcontainer/ │ └── devcontainer.json ├── .streamlit/ │ └── config.toml ├── .venv/ ├── assets/ │ └── Gabriel.jpeg ├── data/ │ └── nutri_data.csv ├── src/ │ ├── app.py │ └── filters.py ├── README.md └── requirements.txt ```
 
 ---
 
